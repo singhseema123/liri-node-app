@@ -13,9 +13,9 @@ Before you start, you will need to do the following:
    * Step Three: Once logged in, navigate to <https://developer.spotify.com/my-applications/#!/applications/create> to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the "complete" button.
    * Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down and use them in the next step (step 5 below).
 5. Create a file named `.env` with the following contents: 
-        _# Spotify API keys_
-        _SPOTIFY_ID=your-spotify-id_
-        _SPOTIFY_SECRET=your-spotify-secret_
+        #### _Spotify API keys_
+        #### _SPOTIFY_ID=your-spotify-id_
+        #### _SPOTIFY_SECRET=your-spotify-secret_
     * Replace your-spotify-id and your-spotify-secret in the .env file with the Spotify client id and client secret retrieved during the previous step (no quotes).
 
 # Usage
@@ -42,10 +42,10 @@ Before you start, you will need to do the following:
    * If no song is provided then your program will default to "What's My Age Again" 
 
 * The image below is an example of a commandline request with a song name and liri's response:
-![Image of spotify song search with song name](https://github.com/singhseema123/liri-node-app/tree/master/images/liri_spotify.PNG)
+![Image of spotify song search with song name](./images/liri_spotify.PNG)
 
 * The image below is an example of a commandline request without a song name and liri's response. Please note, liri will use a default song:
-![Image of spotify song search without song name](https://github.com/singhseema123/liri-node-app/tree/master/images/liri_no_songname.PNG)
+![Image of spotify song search without song name](./images/liri_no_songname.PNG)
 
 3. To search for information about a movie in OMDB, type the following on terminal:
     `node liri.js movie-this '<movie name here>'`
@@ -62,10 +62,10 @@ Before you start, you will need to do the following:
    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
 * The image below is an example of a commandline request with a movie name and liri's response:
-![Image of OMDB search with no movie name](https://github.com/singhseema123/liri-node-app/tree/master/images/liri_movie.PNG)
+![Image of OMDB search with no movie name](./images/liri_movie.PNG)
 
 * The image below is an example of a commandline request without a movie name and liri's response. Please note, liri will use a default movie:
-![Image of spotify song search with song name](https://github.com/singhseema123/liri-node-app/tree/master/images/liri_no_movie.PNG)
+![Image of spotify song search with song name](./images/liri_no_movie.PNG)
 
 4. You can also run commands from 2 (Spotify song search) and 3 (OMDB movie search)  from a text file by typing the following on terminal:
     `node liri.js do-what-it-says inputFileName`
@@ -76,8 +76,8 @@ Before you start, you will need to do the following:
     * movie-this,"Some Like It Hot"
 
 * The image below is an example of a commandline request to use a file for performing spotify song search and liri's response:
-![Image of spotify song search from inputfile](https://github.com/singhseema123/liri-node-app/tree/master/images/liri_inputFromFile.PNG)
+![Image of spotify song search from inputfile](./images/liri_inputFromFile.PNG)
 
 5. You can check log.txt for the requests you made on commandline and the information that liri returned to you. See image below for an example run:
 
-![Image of reviewing activities from log.txt](https://github.com/singhseema123/liri-node-app/tree/master/images/liri_spotify.PNG)
+![Image of reviewing activities from log.txt](./images/liri_spotify.PNG)
