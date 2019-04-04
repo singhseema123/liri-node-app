@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ajax Demo</title>
+    <script
+  src="https://code.jquery.com/jquery-3.3.1.js"
+  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+  crossorigin="anonymous"></script>
+</head>
+<body>
+<script>
+    
+    let OMDBKey = '41c33431';
+    let queryURL=`http://www.omdbapi.com/?apikey=${OMDBKey}`;
+    let movieName = "Mr. Nobody";
+    let artist = "Katy Perry";
+    // queryURL += `&t=\"${movieName}\&r=json&y=&plot=short&tomatoes=true"`;
+    console.log(queryURL);
+    queryURL1 = `https://rest.bandsintown.com/artists/${artist}/events?app_id=codingbootcamp`
+
+
+  $.ajax({
+    url: queryURL1,
+    method: 'GET'
+  }).then(function(response) {
+    console.log(response);
+    // console.log(response.Title, response.Year, response.Rated);
+  });
+  // -------------------------------------------------------
+</script>
+    
+</body>
+</html>
+
+

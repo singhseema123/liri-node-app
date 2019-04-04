@@ -1,0 +1,73 @@
+SOme Like It Hotmovie-this
+Year the Movie Came Out: 1959
+Title of the Movie: Some Like It Hot
+Actors in the Movie: Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft
+Language of the Movie: English
+Imdb rating of the Movie: Not Rated
+Country where movie was produced: USA
+Plot of the Movie: When two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.
+spotify-this-song
+Roar
+Song Name: Roar
+Artist: Katy Perry
+Input Name: Roar
+Album Name: PRISM (Deluxe)
+URL: https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM
+concert-this
+Katy Perry
+Artist/Band Name: Katy Perry
+Concert Venue Name: Ettamogah Hotel
+Concert Location: Australia Green Ridge
+do-what-it-says
+random.txt"I Want it That Way"
+
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Input Name: "I Want it That Way"
+
+Album Name: The Hits--Chapter One
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+concert-this
+Katy Perry
+Artist/Band Name: Katy Perry
+Concert Location: Australia Green Ridge
+Concert Venue Name: Ettamogah Hotel
+spotify-this-song
+Roar
+Input Name: Roar
+Artist: Katy Perry
+URL: https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM
+Song Name: Roar
+Album Name: PRISM (Deluxe)
+SOme Like It Hotmovie-this
+Year the Movie Came Out: 1959
+Imdb rating of the Movie: Not Rated
+Actors in the Movie: Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft
+Plot of the Movie: When two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.
+Language of the Movie: English
+Country where movie was produced: USA
+Title of the Movie: Some Like It Hot
+do-what-it-says
+random.txt"I Want it That Way"
+
+Input Name: "I Want it That Way"
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album Name: The Hits--Chapter One
+URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Mr. Nobodymovie-this
+Imdb rating of the Movie: R
+Title of the Movie: Mr. Nobody
+Language of the Movie: English, Mohawk
+Actors in the Movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Country where movie was produced: Belgium, Germany, Canada, France, USA, UK
+Plot of the Movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Year the Movie Came Out: 2009
+spotify-this-song
+What's my age again
+Input Name: What's my age again
+Song Name: What's My Age Again?
+URL: https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt
+Album Name: Enema Of The State
+Artist: blink-182
