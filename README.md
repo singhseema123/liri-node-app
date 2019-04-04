@@ -86,4 +86,4 @@ Before you start, you will need to do the following:
 
 5. You can check log.txt for the requests you made on commandline and the information that liri returned to you. See image below for an example run:
 
-![Image of reviewing activities from log.txt](./images/liri_spotify.PNG)
+![Image of reviewing activities from log.txt](./images/liri_log.PNG)
