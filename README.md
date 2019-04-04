@@ -15,7 +15,7 @@ Before you start, you will need to download nodeJS to run liri on terminal comma
      * Venue location
 
 * The image below is an example of a commandline request and liri's response:
-![Image of concert_this with band name](https://github.com/singhseema123/liri-node-app/tree/master/images/liri_concert.png)
+![Image of concert_this with band name](./images/liri_concert.png)
 
 2. To search for information about songs in Spotify, type the following on terminal: 
     `node liri.js spotify-this-song '<song name here>'`
